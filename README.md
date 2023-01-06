@@ -1,4 +1,4 @@
-## Hi 👋, I'm Sarthak <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
+## Hi 👋, I'm Sarthak <img src=["https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif"](https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw) width="50"> 
 
 
 - 🔭 I’m currently working on MERN Stack
@@ -10,7 +10,7 @@
 
 ### :gear: My skills include:
 
-- **Languages**: `C++`,`C`, `JavaScript`, `Python`
+- **Languages**: `C++`,`C`, `JavaScript`, `Python`,'Java'
 
 - **Web Technologies**: `Html`,`Css`, `js`,`react`, `next.js`,`node`
 
